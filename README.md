@@ -1,4 +1,4 @@
-I'm \*\*VickeKatt\*\* — developer, tinkerer and builder of random things.
+I'm VickeKatt — a developer, tinkerer and builder of random things!
 
 
 
