@@ -38,7 +38,7 @@ I enjoy building and experimenting with:
 
 
 
-- \*\*\[NexOS](https://github.com/VickeKatt/NexOS)\*\* — A web-based operating-system-style interface.
+- **[NexOS](https://github.com/VickeKatt/NexOS)** — A web-based operating-system-style interface.
 
 
 
