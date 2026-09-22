@@ -2,7 +2,7 @@ I'm \*\*VickeKatt\*\* — developer, tinkerer and builder of random things.
 
 
 
-\## About me
+## About me
 
 
 
@@ -10,21 +10,21 @@ I enjoy building and experimenting with:
 
 
 
-\- Programming
+- Programming
 
-\- Windows, Linux \& system customization
+- Windows, Linux \& system customization
 
-\- Hardware \& electronics
+- Hardware \& electronics
 
-\- ESP32 projects
+- ESP32 projects
 
-\- Web development
+- Web development
 
-\- Trying out different technologies
+- Trying out different technologies
 
 
 
-\## Technologies
+## Technologies
 
 
 
@@ -34,15 +34,15 @@ I enjoy building and experimenting with:
 
 
 
-\## Projects
+## Projects
 
 
 
-\- \*\*\[NexOS](https://github.com/VickeKatt/NexOS)\*\* — A web-based operating-system-style interface.
+- \*\*\[NexOS](https://github.com/VickeKatt/NexOS)\*\* — A web-based operating-system-style interface.
 
 
 
-\## Currently
+## Currently
 
 
 
@@ -50,21 +50,21 @@ Experimenting with:
 
 
 
-\- Linux
+- Linux
 
-\- ESP32 \& electronics
+- ESP32 \& electronics
 
-\- Python projects
+- Python projects
 
-\- Web development
+- Web development
 
-\- System customization
-
-
-
-\## GitHub
+- System customization
 
 
 
-\[github.com/VickeKatt](https://github.com/VickeKatt)
+## GitHub
+
+
+
+[github.com/VickeKatt](https://github.com/VickeKatt)
 
